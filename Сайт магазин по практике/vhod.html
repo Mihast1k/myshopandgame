@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Вход</title>
+  <link rel="stylesheet" href="/Сайт магазин по практике/style/vhodCss.css">
+  <link rel="stylesheet" href="/Сайт магазин по практике/style/budyFon.css">
+  <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+
+<body>
+  <div class="wrapper">
+    <from id="loginForm">
+      <h1>Вход</h1>
+      <div class="input-box">
+        <input type="text" id="login" placeholder="Логин"
+        required>
+        <i class='bx bx-user'></i>
+      </div>
+      <div class="input-box">
+        <input type="password" id="password" placeholder="Пароль"
+        required>
+        <i class='bx bx-lock-alt'></i>
+      </div>
+
+      <div class="remember-forgot">
+          <label> <input type="checkbox"> Запомнить меня </label>
+          <a href="pass.html">Забыли пароль?</a>
+      </div>
+
+      <button type="submit" onclick="inSign()" class="btn">Вход</button>
+
+      <div class="register-link">
+        <p>Нет аккаунта? <a href="register.html">Регистрация</a></p>
+      </div>
+
+    </from>
+
+  </div>
+  <script src="Script/RegScript.js"></script>
+</body>
+</html>

@@ -1,0 +1,196 @@
+[
+    {
+        "id": 1,
+        "title": "Acer 3 Серый",
+        "price": "30200",
+        "discount": "5",
+        "img": "acer-3-gray.webp",
+        "descr": "Норм ноут"
+    },
+    {
+        "id": 2,
+        "title": "Iphone 14 PRO max gold",
+        "price": "100200",
+        "discount": "20",
+        "img": "iphone-14-pro-max-gold.webp",
+        "descr": "Фигня, android лучше"
+    },
+    {
+        "id": 3,
+        "title": "Lenovo 3 Серый",
+        "price": "35000",
+        "discount": "5",
+        "img": "lenovo-3-gray.webp",
+        "descr": "Пойдет"
+    },
+    {
+        "id": 4,
+        "title": "Macbook 10 Серый",
+        "price": "90000",
+        "discount": "50",
+        "img": "macbook-10-gray.webp",
+        "descr": "Лучше Lenovo взять"
+    },
+    {
+        "id": 5,
+        "title": "MSI 15 белый",
+        "price": "40000",
+        "discount": "22",
+        "img": "msi-15-white.webp",
+        "descr": "Для игр имба"
+    },
+    {
+        "id": 6,
+        "title": "Poco f4 gt желтый",
+        "price": "36000",
+        "discount": "10",
+        "img": "poco-f4-gt-yellow.webp",
+        "descr": "Лучше с4 взрываеться и еще + работает как хороший обогреватель."
+    },
+    {
+        "id": 7,
+        "title": "Samsung s22 черный",
+        "price": "60000",
+        "discount": "50",
+        "img": "samsung-s22-black.webp",
+        "descr": "Имба телефон, лучше найти нельзя"
+    },
+    {
+        "id": 8,
+        "title": "Xiaomi 12x фиолетовый",
+        "price": "30200",
+        "discount": "5",
+        "img": "xiaomi-12x-purple.webp",
+        "descr": "Poco лучше"
+    },
+    {
+        "id": 9,
+        "title": "Acer 3 Серый",
+        "price": "30200",
+        "discount": "5",
+        "img": "acer-3-gray.webp",
+        "descr": "Норм ноут"
+    },
+    {
+        "id": 10,
+        "title": "Iphone 14 PRO max gold",
+        "price": "100200",
+        "discount": "20",
+        "img": "iphone-14-pro-max-gold.webp",
+        "descr": "Фигня, android лучше"
+    },
+    {
+        "id": 11,
+        "title": "Lenovo 3 Серый",
+        "price": "35000",
+        "discount": "5",
+        "img": "lenovo-3-gray.webp",
+        "descr": "Пойдет"
+    },
+    {
+        "id": 12,
+        "title": "Macbook 10 Серый",
+        "price": "90000",
+        "discount": "50",
+        "img": "macbook-10-gray.webp",
+        "descr": "Лучше Lenovo взять"
+    },
+    {
+        "id": 13,
+        "title": "MSI 15 белый",
+        "price": "40000",
+        "discount": "22",
+        "img": "msi-15-white.webp",
+        "descr": "Для игр имба"
+    },
+    {
+        "id": 14,
+        "title": "Poco f4 gt желтый",
+        "price": "36000",
+        "discount": "10",
+        "img": "poco-f4-gt-yellow.webp",
+        "descr": "Лучше с4 взрываеться и еще + работает как хороший обогреватель."
+    },
+    {
+        "id": 15,
+        "title": "Samsung s22 черный",
+        "price": "60000",
+        "discount": "50",
+        "img": "samsung-s22-black.webp",
+        "descr": "Имба телефон, лучше найти нельзя"
+    },
+    {
+        "id": 16,
+        "title": "Xiaomi 12x фиолетовый",
+        "price": "30200",
+        "discount": "5",
+        "img": "xiaomi-12x-purple.webp",
+        "descr": "Poco лучше"
+    },
+    {
+        "id": 17,
+        "title": "Acer 3 Серый",
+        "price": "30200",
+        "discount": "5",
+        "img": "acer-3-gray.webp",
+        "descr": "Норм ноут"
+    },
+    {
+        "id": 18,
+        "title": "Iphone 14 PRO max gold",
+        "price": "100200",
+        "discount": "20",
+        "img": "iphone-14-pro-max-gold.webp",
+        "descr": "Фигня, android лучше"
+    },
+    {
+        "id": 19,
+        "title": "Lenovo 3 Серый",
+        "price": "35000",
+        "discount": "5",
+        "img": "lenovo-3-gray.webp",
+        "descr": "Пойдет"
+    },
+    {
+        "id": 20,
+        "title": "Macbook 10 Серый",
+        "price": "90000",
+        "discount": "50",
+        "img": "macbook-10-gray.webp",
+        "descr": "Лучше Lenovo взять"
+    },
+    {
+        "id": 21,
+        "title": "MSI 15 белый",
+        "price": "40000",
+        "discount": "22",
+        "img": "msi-15-white.webp",
+        "descr": "Для игр имба"
+    },
+    {
+        "id": 22,
+        "title": "Poco f4 gt желтый",
+        "price": "36000",
+        "discount": "10",
+        "img": "poco-f4-gt-yellow.webp",
+        "descr": "Лучше с4 взрываеться и еще + работает как хороший обогреватель."
+    },
+    {
+        "id": 23,
+        "title": "Samsung s22 черный",
+        "price": "60000",
+        "discount": "50",
+        "img": "samsung-s22-black.webp",
+        "descr": "Имба телефон, лучше найти нельзя"
+    },
+    {
+        "id": 24,
+        "title": "Xiaomi 12x фиолетовый",
+        "price": "30200",
+        "discount": "5",
+        "img": "xiaomi-12x-purple.webp",
+        "descr": "Poco лучше"
+    }
+
+]
+
